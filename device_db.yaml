@@ -318,7 +318,7 @@ MODULE_AUBESS_TS0003:
   power: mains
   neutral: required
   output: relay
-  device_type: router
+  device_type: end_device # for poor signal scenarios where router is inappropriate
   stock_model_name: TS0003
   stock_manufacturer_name: _TZ3000_lvhy15ix
   stock_converter_manufacturer: Tuya
